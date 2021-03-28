@@ -23,11 +23,20 @@ https://content-auso2.uplynk.com/channel/765d4420866c4ab0aed26bf8568cdda7/j.m3u8
 #EXTINF:-1 tvg-ID=tvg"TelemundoEast.us"-name="US: TELEMUNDO () I HD" tvg-logo="" group-title="US-Entertainment",US: Telemundo
 https://dcs-live2.apis.anvato.net/server/play/p0d55pzcqyXwnU9A/rendition.m3u8?track=video-6&anvsid=i177606274-nad81a999-e521-44de-b94f-aabc9327219d&ts=1616957423&anvtrid=d22b2afbb89ed5f23265b2293f701e0b
 
-#EXTINF:-1 tvg-ID=tvg"E.us"-name="US: E! () I HD" tvg-logo="" group-title="US-Entertainment",US: E! East
-https://dcs-live2.apis.anvato.net/server/play/A4eXwDFvNw46T4Pj/rendition.m3u8?track=video-6&anvsid=i177606274-n9ed9b686-ee2f-4e22-963d-a97dafa16aa5&ts=1616959008&anvtrid=d31d14e76f1bfa26f2af91d447204845
+#EXTINF:-1 tvg-ID=tvg"E.us"-name="US: E () I HD" tvg-logo="" group-title="US-Entertainment",US: E East
+https://dcs-live2.apis.anvato.net/server/play/A4eXwDFvNw46T4Pj/rendition.m3u8?track=video-5&anvsid=i177606274-nb3aa1af6-b65c-4b84-b0c6-ff24c6096435&ts=1616927751&anvtrid=292b4477bc1284097001812db07e82f0
 
 #EXTINF:-1 tvg-ID=tvg"Bravo.us"-name="US: Bravo () I HD" tvg-logo="" group-title="US-Entertainment",US: Bravo
 https://dcs-live2.apis.anvato.net/server/play/0ZGWZ1UrEXpnFRYA/rendition.m3u8?track=video-5&anvsid=i177606274-nf258a300-4fab-4f3c-829d-9791a7624781&ts=1616958474&anvtrid=6691fa9cda658f2b7141f48a344f6291
 
 #EXTINF:-1 tvg-ID=tvg"Syfy.us"-name="US: SYFY () I HD" tvg-logo="" group-title="US-Entertainment",US: SYFY
 https://dcs-live2.apis.anvato.net/server/play/Aoz4BMT5w6ymfmM0/rendition.m3u8?track=video-6&anvsid=i177606274-n49f4e2f3-e4ab-4af2-937e-d533c49b4dd4&ts=1616959298&anvtrid=f2ff3945a7de5b4f93890ead53afd71d
+
+#EXTINF:-1 tvg-ID=tvg""-name="US: TDN () I HD" tvg-logo="" group-title="US-Entertainment",US: TDN
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/954a528e-83d0-43e3-a6a4-dfc04c13e25c/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg""-name="US: BEING SPORTS () I HD" tvg-logo="" group-title="US-Entertainment",US:BEING SPORTS
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/f034a1b0-c7b5-4c66-b32f-d795bb23b1a3/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg""-name="US: UNIVISION PHILADELPHIA () I HD" tvg-logo="" group-title="US-Entertainment",US: UIVISION PHILADELPHIA
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/2c0bad7c-dcea-4a20-9780-d35cdf3ac8dd/4.m3u8
