@@ -28,3 +28,6 @@ https://dcs-live2.apis.anvato.net/server/play/A4eXwDFvNw46T4Pj/rendition.m3u8?tr
 
 #EXTINF:-1 tvg-ID=tvg"Bravo.us"-name="US: Bravo () I HD" tvg-logo="" group-title="US-Entertainment",US: Bravo
 https://dcs-live2.apis.anvato.net/server/play/0ZGWZ1UrEXpnFRYA/rendition.m3u8?track=video-5&anvsid=i177606274-nf258a300-4fab-4f3c-829d-9791a7624781&ts=1616958474&anvtrid=6691fa9cda658f2b7141f48a344f6291
+
+#EXTINF:-1 tvg-ID=tvg"Syfy.us"-name="US: SYFY () I HD" tvg-logo="" group-title="US-Entertainment",US: SYFY
+https://dcs-live2.apis.anvato.net/server/play/Aoz4BMT5w6ymfmM0/rendition.m3u8?track=video-6&anvsid=i177606274-n49f4e2f3-e4ab-4af2-937e-d533c49b4dd4&ts=1616959298&anvtrid=f2ff3945a7de5b4f93890ead53afd71d
