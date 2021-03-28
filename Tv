@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="WHTMDT(ABC).us"tvg-name="US: ABC () I HD" tvg-logo="" group-title="US-Entertainment",US: ABC
+#EXTINF:-1 tvg-ID="WHTMDT(ABC).us"tvg-name="US: ABC () I HD" tvg-logo="" group-title="US-Entertainment",US: Abc
 https://content-auso2.uplynk.com/channel/412b0949b4ad495ebdbdbc10a161309c/e.m3u8?exp=1616910050&ct=c&cid=412b0949b4ad495ebdbdbc10a161309c&expand=drmOff&iph=0a995cc9eb74fc6dd26ea9e42f135ba8dcc402a6906551bb2665654636024a3f&euid=AE58FD1E-D09B-4861-B29C-20C806AC1B79_007_1_001-2_live_01-06-01_1.2.7.34&rays=hjigfedcba&pp2ip=0&delay=0&ad=xtv_wpvi_live&ad.tfcd=0&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26sp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D1%26isAuth%3D1%26isAutoplay%3D1%26ul%3Den%26transID%3D-FbQLNY-5JTr-Lgmln_Ap1G8eAdzwLvZ2zjPdV-xAZH-rfjy8Pv8zA%253D%253D%26aff%3DWPVI%26authp%3Dcomcast_sso%26plt%3Dweb%26swid%3DAE58FD1E-D09B-4861-B29C-20C806AC1B79%26ip%3D65.78.100.77%26hip%3D0a995cc9eb74fc6dd26ea9e42f135ba8dcc402a6906551bb2665654636024a3f%26nlsnDevGrp%3Ddevgrp%252CDSK%26nlsnPlat%3DPLT%252CDSK&ad.adUnit=/abc/comcast-xfinity/web&ad.sssb=0&ad.pp=comcast-tve-web&ap.use=0&ad.vip=65.78.100.77&ad.vast3=1&ad.ssss=vdms&ad.networkId=21783347309&ad.sz=640x480&ad.same_scor=1&ad.url=https://abc.go.com&ad.vid=@external_id&ad.ppid=AE58FD1E-D09B-4861-B29C-20C806AC1B79&ad.flex=0&ad.description_url=https://abc.go.com&ad.cmsid=2494279&v=3&sig=e286b32f297929e2f92869cfdbb2b4befe3eb1f2c6a5751a98092bf916c5620a&pbs=29d3b84cf0044ff589eba039dd315c77
+
+#EXTINF:-1 tvg-ID=tvg"WGAL(NBC).us"-name="US: NBC () I HD" tvg-logo="" group-title="US-Entertainment",US: NBC
+https://dcs-live2.apis.anvato.net/server/play/EAJYe9WFNL2xZH30/rendition.m3u8?track=video-4&anvsid=i177606274-nbde36e32-4606-4541-88cf-3dfa3d695335&ts=1616911608&anvtrid=9e7b79e78e25b1a2a5c698352c529749
+
+#EXTINF:-1 tvg-ID=tvg"AMC.us"-name="US: AMC PRESENTS () I HD" tvg-logo="" group-title="US-Entertainment",US: AMC PRESENTS
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/199be2a1-c2a2-4a2b-ab4e-ff13a64480ed/5.m3u8
