@@ -122,6 +122,42 @@ https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/produ
 #EXTINF:-1 tvg-ID=tvg"VH1.US"-name="US: VH1 () I HD" tvg-logo="" group-title="US-Entertainment",US: VH1
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/885fb8f0-ad77-4a17-97f7-7bfd1417d5d8/1.m3u8
 
+#EXTINF:-1 tvg-ID=tvg"VICE.US"-name="US: VICE () I HD" tvg-logo="" group-title="US-Entertainment",US: VICE
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/fdfb720f-c348-4cda-9120-89a1dc1b9883/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"FS2.US"-name="US: FS2 () I HD" tvg-logo="" group-title="US-Entertainment",US: FS2
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/3fe5f60b-ba75-45f2-98db-bd0bc5238e9e/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"NFLNETWORK.US"-name="US: NFL NETWORK () I HD" tvg-logo="" group-title="US-Entertainment",US: NFL NETWORK
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/82d3c34f-67af-4ab6-8256-8c4a9e6bfeeb/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"B1GNETWORK.US"-name="US: B1G NETWORK () I HD" tvg-logo="" group-title="US-Entertainment",US: B1G NETWORK
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/5cc18dd6-535e-4a31-8f98-d365d1bee747/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"GALAVISION.US"-name="US: GALAVISION () I HD" tvg-logo="" group-title="US-Entertainment",US: GALAVISION
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/a14543dc-d5d0-47da-92c7-943710ec2b85/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"IFC.US"-name="US: IFC () I HD" tvg-logo="" group-title="US-Entertainment",US: IFC
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/c2c37edf-df64-4045-97da-ff782d8c4080/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"LMN.US"-name="US: LMN () I HD" tvg-logo="" group-title="US-Entertainment",US: LMN
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/0047259b-c886-4763-8687-0c0813a28f94/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"PARAMOUNT.US"-name="US: PARAMOUNT NETWORK () I HD" tvg-logo="" group-title="US-Entertainment",US: PARAMOUNT 
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/8a72c5bf-52fd-4e9e-84cd-88cc8de38e27/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"SUDANCETV.US"-name="US: SUDANCE TV () I HD" tvg-logo="" group-title="US-Entertainment",US: SUDANCE TV
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/88915ff5-50be-4f22-9a1f-3b1374396fb6/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"UNIMAS62.US"-name="US: UNIMAS PHILADELPHIA () I HD" tvg-logo="" group-title="US-Entertainment",US: UNIMAS PHILADELPHIA
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/a1d8f22d-ddc9-4dfb-b57b-fe1dede3c2e3/4.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"ESTRELLA.US"-name="US: ESTRELLA TV () I HD" tvg-logo="" group-title="US-Entertainment",US: ESTRELLA TV
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/ae192b00-b83f-4b69-b516-41b75cae8cd3/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"UNIVERSO.US"-name="US: UNIVERSO () I HD" tvg-logo="" group-title="US-Entertainment",US: UNIVERSO
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/c6717491-9eac-4114-bf39-c31bb4f43f69/0.m3u8
+
 
 
 
