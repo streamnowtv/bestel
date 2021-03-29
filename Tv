@@ -17,7 +17,7 @@ https://content-ause1-ur-dtci1.uplynk.com/channel/2f88c12530024d0384f7e8386e4f33
 #EXTINF:-1 tvg-ID=tvg"DisneyChannelHD.us"-name="US: DISNEY CHANNEL () I HD" tvg-logo="" group-title="US-Entertainment",US: DISNEY CHANNEL
 https://content-ausw1-up-1.uplynk.com/channel/d75941e582c04e68bb32d3190283d3ae/j.m3u8?&ct=c&cid=d75941e582c04e68bb32d3190283d3ae&expand=drmOff&iph=0a995cc9eb74fc6dd26ea9e42f135ba8dcc402a6906551bb2665654636024a3f&euid=37282BB1-C5A3-4FC5-80F7-0190247F3DF5_007_1_001-2_live_03-06-01_1.2.7.34&rays=hjigfedcba&pp2ip=0&delay=0&v=3&sig=d1d8c060e34074667a16ac702473c3a25774514cf3763ae2ad3dab5ebdf3fd75&pbs=09789d02da4c4ce1900bbbf0cf5ee4af
 
-#EXTINF:-1 tvg-ID=tvg"Freeform.us"-name="US: FREEFORM () I HD" tvg-logo="" group-title="US-Entertainment",US: FREE FORM
+#EXTINF:-1 tvg-ID=tvg"FreeformHD.us"-name="US: FREEFORM () I HD" tvg-logo="" group-title="US-Entertainment",US: FREE FORM
 https://content-auso2.uplynk.com/channel/765d4420866c4ab0aed26bf8568cdda7/j.m3u8?&ct=c&cid=765d4420866c4ab0aed26bf8568cdda7&expand=drmOff&iph=0a995cc9eb74fc6dd26ea9e42f135ba8dcc402a6906551bb2665654636024a3f&euid=1B4B37C3-1D4C-4D5B-A9DD-5A24DFDB8CA9_007_1_001-2_live_02-06-01_1.2.7.34&rays=hjigfedcba&pp2ip=0&delay=0&ad=xtv_freeform_live&ad.tfcd=0&ad.cust_params=chan%3Dfreeform%26beacTyp%3Dssai%26sp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D1%26isAuth%3D1%26isAutoplay%3D1%26ul%3Den%26transID%3DAGrGLc4nvbzVqrdhMV4xKKFsL5ESxoVYezeRkpAcQOJ5IcXvynG9WA%253D%253D%26aff%3D%26authp%3Dcomcast_sso%26plt%3Dweb%26swid%3D1B4B37C3-1D4C-4D5B-A9DD-5A24DFDB8CA9%26ip%3D65.78.100.77%26hip%3D0a995cc9eb74fc6dd26ea9e42f135ba8dcc402a6906551bb2665654636024a3f%26nlsnDevGrp%3Ddevgrp%252CDSK%26nlsnPlat%3DPLT%252CDSK&ad.adUnit=/freeform/comcast-xfinity/html5&ad.sssb=0&ad.pp=comcast-tve-web&ap.use=0&ad.vip=65.78.100.77&ad.vast3=1&ad.ssss=vdms&ad.networkId=21783347309&ad.sz=640x480&ad.same_scor=1&ad.url=https://freeform.go.com&ad.vid=@external_id&ad.ppid=1B4B37C3-1D4C-4D5B-A9DD-5A24DFDB8CA9&ad.description_url=https://freeform.go.com&ad.cmsid=2494279&v=3&sig=6ff6e15807bfb8614580544cb65f97f45be1890dbff38e5444b0c6ff9cc2a321&pbs=282213efdd644048be498a422423c4e2
 
 #EXTINF:-1 tvg-ID=tvg"TelemundoEast.us"-name="US: TELEMUNDO () I HD" tvg-logo="" group-title="US-Entertainment",US: Telemundo
@@ -107,7 +107,7 @@ https://playlist-central.fubo.tv/13/media.m3u8?hdnts=ip%3D65.78.100.77~st%3D1616
 #EXTINF:-1 tvg-ID=tvg"HISTORY.US"-name="US: HISTORY () I HD" tvg-logo="" group-title="US-Entertainment",US: HISTORY
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/445018f0-de3f-4253-b8ef-022832fcf2db/1.m3u8
 
-#EXTINF:-1 tvg-ID=tvg"DISCOVERYID.US"-name="US: DISCOVERY ID () I HD" tvg-logo="" group-title="US-Entertainment",US: DISCOVERY ID
+#EXTINF:-1 tvg-ID=tvg"InvestigationDiscovery.us"-name="US: DISCOVERY ID () I HD" tvg-logo="" group-title="US-Entertainment",US: DISCOVERY ID
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/34ee4ea9-1ebd-4031-a9fe-3b7bd679214b/1.m3u8
 
 #EXTINF:-1 tvg-ID=tvg"MTV.US"-name="US: MTV () I HD" tvg-logo="" group-title="US-Entertainment",US: MTV
