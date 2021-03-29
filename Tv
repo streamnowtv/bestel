@@ -27,7 +27,7 @@ https://playlist-central.fubo.tv/5/media.m3u8?hdnts=ip%3D65.78.100.77~st%3D16169
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/6926ad3a-fe4a-412a-91d2-1c212b39b5f5/1.m3u8
 
 #EXTINF:-1 tvg-ID=tvg"Syfy.us"-name="US: SYFY () I HD" tvg-logo="" group-title="US-Entertainment",US: SYFY
-https://dcs-live2.apis.anvato.net/server/play/Aoz4BMT5w6ymfmM0/rendition.m3u8?track=video-6&anvsid=i177606274-n49f4e2f3-e4ab-4af2-937e-d533c49b4dd4&ts=1616959298&anvtrid=f2ff3945a7de5b4f93890ead53afd71d
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/8802698a-79c7-4069-91c1-173d89fd2c94/1.m3u8
 
 #EXTINF:-1 tvg-ID=tvg"TDN.mx"-name="US: TDN () I HD" tvg-logo="" group-title="US-Entertainment",US: TDN
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/954a528e-83d0-43e3-a6a4-dfc04c13e25c/1.m3u8
@@ -93,7 +93,7 @@ https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/produ
 https://playlist-central.fubo.tv/0/media.m3u8?hdnts=ip%3D65.78.100.77~st%3D1616976883~exp%3D1617063283~acl%3D%2F%2A~data%3D1617063283~hmac%3D02202c59dff8cf84c883ca82d5044d6da449bc1f6cbe08e66bfd1adb9ba7345d&watchToken=eyJhbGciOiJIUzI1NiIsInRva2VuVHlwZSI6IlVzYUJhc2VXYXRjaFRva2VuIiwidHlwIjoiSldUIn0.eyJ3YXRjaFRva2VuIjp7ImNhbGxTaWduIjoiV1BTRyIsImRldmljZSI6IkFMTCIsImJhbmR3aWR0aCI6IjM2NTk3NjAiLCJjb3VudHJ5IjoiVVNBIiwidXNlcklkIjoiNTlkZWQ0MzIwNWY5NWMwMTAwZGI1Yzc2IiwicmVxdWVzdFR5cGUiOiJsaXZlIiwicmVnaW9uIjoiY2VudHJhbCJ9LCJob21lWmlwIjoiMTk2MDEiLCJnZW9aaXAiOiIxODEwMyJ9.XQcToVJaDOgBA5X21wc57BH9zkfknsxnv7FiasFsNso
 
 #EXTINF:-1 tvg-ID=tvg"DiscoveryHD.us"-name="US: DISCOVERY CHANNEL () I HD" tvg-logo="" group-title="US-Entertainment",US: DISCOVERY CHANNEL
-ttps://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/20c8b44b-4331-4560-9f1b-9bf668ccd89e/1.m3u8
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/1f3c0155-9aab-493b-8a48-17c634a82dd3/1.m3u8
 
 #EXTINF:-1 tvg-ID=tvg"GETTVHD.US"-name="US: GET TV () I HD" tvg-logo="" group-title="US-Entertainment",US: GET TV
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/bf4fbc8c-d521-46b5-bb8a-362d9b37f413/1.m3u8
