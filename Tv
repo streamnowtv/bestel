@@ -113,6 +113,14 @@ https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/produ
 #EXTINF:-1 tvg-ID=tvg"MTV.US"-name="US: MTV () I HD" tvg-logo="" group-title="US-Entertainment",US: MTV
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/8ee74037-1020-43f0-8c53-b58a1da95586/1.m3u8
 
+#EXTINF:-1 tvg-ID=tvg"TVLAND.US"-name="US: TV LAND () I HD" tvg-logo="" group-title="US-Entertainment",US: TV LAND
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/3b949e7b-f12a-4a25-81dc-199c2e27f3c3/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"USA.US"-name="US: USA () I HD" tvg-logo="" group-title="US-Entertainment",US: USA
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/ff57b976-5f99-420e-9e48-ddb076dbb901/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"VH1.US"-name="US: VH1 () I HD" tvg-logo="" group-title="US-Entertainment",US: VH1
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/885fb8f0-ad77-4a17-97f7-7bfd1417d5d8/1.m3u8
 
 
 
