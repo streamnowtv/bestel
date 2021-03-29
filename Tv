@@ -95,6 +95,11 @@ https://playlist-central.fubo.tv/0/media.m3u8?hdnts=ip%3D65.78.100.77~st%3D16169
 #EXTINF:-1 tvg-ID=tvg"DiscoveryHD.us"-name="US: DISCOVERY CHANNEL () I HD" tvg-logo="" group-title="US-Entertainment",US: DISCOVERY CHANNEL
 ttps://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/20c8b44b-4331-4560-9f1b-9bf668ccd89e/1.m3u8
 
+#EXTINF:-1 tvg-ID=tvg"GETTVHD.US"-name="US: GET TV () I HD" tvg-logo="" group-title="US-Entertainment",US: GET TV
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/bf4fbc8c-d521-46b5-bb8a-362d9b37f413/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"HallmarkChannelHD.us"-name="US: HALLMARK CHANNEL () I HD" tvg-logo="" group-title="US-Entertainment",US: HALLMARK CHANNEL
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/74c35f14-5d54-4547-929a-26dd87a15a42/1.m3u8
 
 
 
