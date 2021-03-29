@@ -182,13 +182,13 @@ https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/produ
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/f621c269-4c1f-4520-8e0d-ce539cf9deaf/2.m3u8
 
 
-#EXTINF:-1 tvg-ID=tvg""-name="US: MSG+ () I HD" tvg-logo="" group-title="US-Entertainment",US: MSG+
+#EXTINF:-1 tvg-ID=tvg"msg.us"-name="US: MSG+ () I HD" tvg-logo="" group-title="US-Entertainment",US: MSG+
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/c144f417-8638-40d9-97b2-940ddd79b6dc/1.m3u8
 
-#EXTINF:-1 tvg-ID=tvg""-name="US: HALLMARK MOVIES&MYSTERIES () I HD" tvg-logo="" group-title="US-Entertainment",US: HALLMARK MOVIES&MYSTERIES
+#EXTINF:-1 tvg-ID=tvg"hallmark.us"-name="US: HALLMARK MOVIES&MYSTERIES () I HD" tvg-logo="" group-title="US-Entertainment",US: HALLMARK MOVIES&MYSTERIES
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/196d2968-5a61-418a-8a46-f0a4039d7ed8/1.m3u8
 
-#EXTINF:-1 tvg-ID=tvg""-name="US: SMITHSONIAN SMITHSONIAN () I HD" tvg-logo="" group-title="US-Entertainment",US: SMITHSONIAN
+#EXTINF:-1 tvg-ID=tvg"smithsonian.us"-name="US: SMITHSONIAN () I HD" tvg-logo="" group-title="US-Entertainment",US: SMITHSONIAN
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/67578019-5b1d-4e6c-97ba-830aff101b0f/1.m3u8
 
 
