@@ -184,7 +184,7 @@ https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/produ
 #EXTINF:-1 tvg-ID=tvg"TELESISTEMA11.RD"-name="RD: TELESISTEMA 11 () I HD" tvg-logo="" group-title="RD-Entertainment",RD: TELESISTEMA 11
 https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w1376469705.m3u8
 
-#EXTINF:-1 tvg-ID=tvg""-name="RD: COLOR VISION CANAL 9 () I HD" tvg-logo="" group-title="US-Entertainment",RD: COLOR VISION CANAL 9
+#EXTINF:-1 tvg-ID=tvg""-name="RD: COLOR VISION CANAL 9 () I HD" tvg-logo="" group-title="RD-Entertainment",RD: COLOR VISION CANAL 9
 https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY-461s9LvGlXXG40ytx43_Y)/dm/3/x7gy059/d/live-0.m3u8
 
 #EXTINF:-1 tvg-ID=tvg""-name="RD: CERTV CANAL 4 () I HD" tvg-logo="" group-title="RD-Entertainment",RD: CERTV CANAL 4
