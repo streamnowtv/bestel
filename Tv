@@ -64,3 +64,34 @@ https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/produ
 
 #EXTINF:-1 tvg-ID=tvg"A-EHD.us"-name="US: A&E () I HD" tvg-logo="" group-title="US-Entertainment",US: A&E
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/7d16eceb-e4ce-43f4-b1b5-18b9ea090b9d/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"AMCHD.us"-name="US: AMC () I HD" tvg-logo="" group-title="US-Entertainment",US: AMC
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/66d0d16b-63d2-406b-a951-cea9e0bc5d1d/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg""-name="US: ANIMAL PLANET () I HD" tvg-logo="" group-title="US-Entertainment",US: ANIMAL PLANET
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/09d9cc53-8972-4869-a829-36b5e5b4d28f/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"BBCAmericaHD.us"-name="US: BBC AMERICA () I HD" tvg-logo="" group-title="US-Entertainment",US: BBC AMERICA
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/8cacf536-be87-436d-b7e4-9eff3272c044/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"BETHD.us"-name="US: BET () I HD" tvg-logo="" group-title="US-Entertainment",US: BET
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/945a9c90-d235-4fb4-be87-9a308302669a/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"Bravo.us"-name="US: BRAVO () I HD" tvg-logo="" group-title="US-Entertainment",US: BRAVO
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/7ff432ae-a2b1-4c9c-bcda-a01b63baf9a4/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"CMTHD.us"-name="US: CMT () I HD" tvg-logo="" group-title="US-Entertainment",US: CMT
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/3b040e91-94c7-4c11-a8e9-657bdb1edfcd/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"ComedyCentralHD.us"-name="US: COMEDY CENTRAL () I HD" tvg-logo="" group-title="US-Entertainment",US: COMEDY CENTRAL
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/437c85ce-690f-45de-b22f-e78c456d21c1/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"COMETHD.US"-name="US: COMET () I HD" tvg-logo="" group-title="US-Entertainment",US: COMET
+https://playlist-central.fubo.tv/13/media.m3u8?hdnts=ip%3D65.78.100.77~st%3D1616976496~exp%3D1617062896~acl%3D%2F%2A~data%3D1617062896~hmac%3D9ef5adaf15d59f43953389a669c063779d7de1827fb121b57514b67e269556f9&watchToken=eyJhbGciOiJIUzI1NiIsInRva2VuVHlwZSI6IlVzYUJhc2VXYXRjaFRva2VuIiwidHlwIjoiSldUIn0.eyJ3YXRjaFRva2VuIjp7ImNhbGxTaWduIjoiQ09NRVQiLCJkZXZpY2UiOiJBTEwiLCJiYW5kd2lkdGgiOiIzOTA2OTU2IiwiY291bnRyeSI6IlVTQSIsInVzZXJJZCI6IjU5ZGVkNDMyMDVmOTVjMDEwMGRiNWM3NiIsInJlcXVlc3RUeXBlIjoibGl2ZSIsInJlZ2lvbiI6ImNlbnRyYWwifSwiaG9tZVppcCI6IjE5NjAxIiwiZ2VvWmlwIjoiMTgxMDMifQ.r3NL_7ehoGYdw3nN-T3Z_TKUpYaFN9wJzYcLW9fsVvc
+
+#EXTINF:-1 tvg-ID=tvg"COZITVHD.US"-name="US: COZI TV () I HD" tvg-logo="" group-title="US-Entertainment",US: COZI TV
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/2c2a65a9-962e-4cae-8b23-1077cdb2ed17/1.m3u8
+
+
+
+
