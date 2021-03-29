@@ -50,7 +50,7 @@ https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/produ
 #EXTINF:-1 tvg-ID=tvg"TravelChannelHD.us"-name="US: TRVL CHANNEL () I HD" tvg-logo="" group-title="US-Entertainment",US: TRVL CHANNEL
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/542d5c59-44e8-48a6-aa71-84a71c01faab/1.m3u8
 
-#EXTINF:-1 tvg-ID=tvg"NickelodeonEastHD.us"-name="US: NICKLODEAN () I HD" tvg-logo="" group-title="US-Entertainment",US: NICKLODEAN
+#EXTINF:-1 tvg-ID=tvg"NickelodeonEast.us"-name="US: NICKLODEAN () I HD" tvg-logo="" group-title="US-Entertainment",US: NICKLODEAN
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/62c6b978-870c-4aba-b2b5-b75e2ac9cc47/1.m3u8
 
 #EXTINF:-1 tvg-ID=tvg"NickJrHD.us"-name="US: NICK JR () I HD" tvg-logo="" group-title="US-Entertainment",US: NICK JR
@@ -140,7 +140,7 @@ https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/produ
 #EXTINF:-1 tvg-ID=tvg"IFC.US"-name="US: IFC () I HD" tvg-logo="" group-title="US-Entertainment",US: IFC
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/c2c37edf-df64-4045-97da-ff782d8c4080/1.m3u8
 
-#EXTINF:-1 tvg-ID=tvg"LMN.US"-name="US: LMN () I HD" tvg-logo="" group-title="US-Entertainment",US: LMN
+#EXTINF:-1 tvg-ID=tvg"LMNHD.us"-name="US: LMN () I HD" tvg-logo="" group-title="US-Entertainment",US: LMN
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/0047259b-c886-4763-8687-0c0813a28f94/1.m3u8
 
 #EXTINF:-1 tvg-ID=tvg"PARAMOUNT.US"-name="US: PARAMOUNT NETWORK () I HD" tvg-logo="" group-title="US-Entertainment",US: PARAMOUNT 
