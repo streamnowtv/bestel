@@ -24,10 +24,7 @@ https://content-auso2.uplynk.com/channel/765d4420866c4ab0aed26bf8568cdda7/j.m3u8
 https://dcs-live2.apis.anvato.net/server/play/p0d55pzcqyXwnU9A/rendition.m3u8?track=video-6&anvsid=i177606274-nad81a999-e521-44de-b94f-aabc9327219d&ts=1616957423&anvtrid=d22b2afbb89ed5f23265b2293f701e0b
 
 #EXTINF:-1 tvg-ID=tvg"E.us"-name="US: E () I HD" tvg-logo="" group-title="US-Entertainment",US: E East
-https://dcs-live2.apis.anvato.net/server/play/A4eXwDFvNw46T4Pj/rendition.m3u8?track=video-5&anvsid=i177606274-nb3aa1af6-b65c-4b84-b0c6-ff24c6096435&ts=1616927751&anvtrid=292b4477bc1284097001812db07e82f0
-
-#EXTINF:-1 tvg-ID=tvg"Bravo.us"-name="US: Bravo () I HD" tvg-logo="" group-title="US-Entertainment",US: Bravo
-https://dcs-live2.apis.anvato.net/server/play/0ZGWZ1UrEXpnFRYA/rendition.m3u8?track=video-5&anvsid=i177606274-nf258a300-4fab-4f3c-829d-9791a7624781&ts=1616958474&anvtrid=6691fa9cda658f2b7141f48a344f6291
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/6926ad3a-fe4a-412a-91d2-1c212b39b5f5/1.m3u8
 
 #EXTINF:-1 tvg-ID=tvg"Syfy.us"-name="US: SYFY () I HD" tvg-logo="" group-title="US-Entertainment",US: SYFY
 https://dcs-live2.apis.anvato.net/server/play/Aoz4BMT5w6ymfmM0/rendition.m3u8?track=video-6&anvsid=i177606274-n49f4e2f3-e4ab-4af2-937e-d533c49b4dd4&ts=1616959298&anvtrid=f2ff3945a7de5b4f93890ead53afd71d
@@ -91,6 +88,19 @@ https://playlist-central.fubo.tv/13/media.m3u8?hdnts=ip%3D65.78.100.77~st%3D1616
 
 #EXTINF:-1 tvg-ID=tvg"COZITVHD.US"-name="US: COZI TV () I HD" tvg-logo="" group-title="US-Entertainment",US: COZI TV
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/2c2a65a9-962e-4cae-8b23-1077cdb2ed17/1.m3u8
+
+#EXTINF:-1 tvg-ID=tvg"THECWHD.US"-name="US: THE CW () I HD" tvg-logo="" group-title="US-Entertainment",US: THE CW
+https://playlist-central.fubo.tv/0/media.m3u8?hdnts=ip%3D65.78.100.77~st%3D1616976883~exp%3D1617063283~acl%3D%2F%2A~data%3D1617063283~hmac%3D02202c59dff8cf84c883ca82d5044d6da449bc1f6cbe08e66bfd1adb9ba7345d&watchToken=eyJhbGciOiJIUzI1NiIsInRva2VuVHlwZSI6IlVzYUJhc2VXYXRjaFRva2VuIiwidHlwIjoiSldUIn0.eyJ3YXRjaFRva2VuIjp7ImNhbGxTaWduIjoiV1BTRyIsImRldmljZSI6IkFMTCIsImJhbmR3aWR0aCI6IjM2NTk3NjAiLCJjb3VudHJ5IjoiVVNBIiwidXNlcklkIjoiNTlkZWQ0MzIwNWY5NWMwMTAwZGI1Yzc2IiwicmVxdWVzdFR5cGUiOiJsaXZlIiwicmVnaW9uIjoiY2VudHJhbCJ9LCJob21lWmlwIjoiMTk2MDEiLCJnZW9aaXAiOiIxODEwMyJ9.XQcToVJaDOgBA5X21wc57BH9zkfknsxnv7FiasFsNso
+
+#EXTINF:-1 tvg-ID=tvg"DiscoveryHD.us"-name="US: DISCOVERY CHANNEL () I HD" tvg-logo="" group-title="US-Entertainment",US: DISCOVERY CHANNEL
+ttps://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/20c8b44b-4331-4560-9f1b-9bf668ccd89e/1.m3u8
+
+
+
+
+
+
+
 
 
 
